@@ -28,6 +28,6 @@
     "manifest-revision-webpack-plugin": "^0.0.5",
     "extract-text-webpack-plugin": "^0.8.2",
     "webpack": "^1.12.1",
-    "webpack-dev-server": "^1.12.1"
+    "webpack-dev-server": "^5.2.2"
   }
 }
