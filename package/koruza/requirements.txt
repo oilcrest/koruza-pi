@@ -1,10 +1,10 @@
-requests==2.7.0
-pyopenssl==0.15.1
+requests==2.32.4
+pyopenssl==17.5.0
 ndg-httpsclient==0.4.0
 pyasn1==0.1.8
 nnpy==0.9.1
-gevent==1.0.2
+gevent==23.9.0
 gevent-websocket==0.9.5
-Flask==0.10.1
+Flask==2.2.5
 Flask-Webpack==0.0.7
 imgurpython==1.1.6
